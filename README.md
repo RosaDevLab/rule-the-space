@@ -30,7 +30,7 @@ We cover topics like:
 
 Watch the full development process here:
 
-👉 https://youtube.com/your-channel-link
+👉 https://www.youtube.com/@RosaDevLab
 
 ---
 
